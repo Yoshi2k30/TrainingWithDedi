@@ -1,0 +1,1508 @@
+DEBUG:root:Check 2
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:Check 2
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Check 1
+DEBUG:root:Check 2
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Check 1
+DEBUG:root:Check 2
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Check 1
+DEBUG:root:Check 2
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 22:17:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 22:22:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 22:24:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 22:35:40] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 22:35:59] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:07:40] "POST /save HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:08:05] "POST /save HTTP/1.1" 405 -
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:18:33] "GET /save HTTP/1.1" 200 -
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:19:48] "GET /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:19:59] "GET /list HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:22:47] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:24:11] "GET /list HTTP/1.1" 200 -
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:25:18] "GET /list HTTP/1.1" 200 -
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:25:29] "GET /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:26:21] "GET /list HTTP/1.1" 200 -
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:28:13] "GET /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:28:16] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:28:26] "GET /get HTTP/1.1" 500 -
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:30:34] "GET /get HTTP/1.1" 500 -
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:30:45] "GET /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:30:49] "GET /get HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:30:53] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:30:58] "GET /get HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:34:20] "GET /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:34:24] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Dec/2018 23:34:29] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:17:58] "GET /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:18:01] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:18:11] "GET /get HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:18:55] "GET /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:18:58] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:33:06] "GET /get HTTP/1.1" 200 -
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:33:52] "GET /save HTTP/1.1" 200 -
+INFO:root:Object saved
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:34:18] "GET /save HTTP/1.1" 200 -
+INFO:root:List was requested
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:34:26] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jan/2019 00:34:36] "GET /get HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+INFO:werkzeug: * Restarting with stat
+WARNING:root:Yossi
+DEBUG:root:DAVID
+INFO:root:AVITAL
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-078-520
+INFO:werkzeug: * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+2019-01-02 21:18:18,570 Yossi
+2019-01-02 21:18:18,571 DAVID
+2019-01-02 21:18:18,572 AVITAL
+2019-01-02 21:18:19,268  * Restarting with stat
+2019-01-02 21:18:19,726 Yossi
+2019-01-02 21:18:19,727 DAVID
+2019-01-02 21:18:19,727 AVITAL
+2019-01-02 21:18:20,244  * Debugger is active!
+2019-01-02 21:18:20,264  * Debugger PIN: 256-078-520
+2019-01-02 21:18:20,283  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 09:21:03 PM Yossi
+02/01/2019 09:21:03 PM DAVID
+02/01/2019 09:21:03 PM AVITAL
+02/01/2019 09:21:03 PM  * Restarting with stat
+02/01/2019 09:21:04 PM Yossi
+02/01/2019 09:21:04 PM DAVID
+02/01/2019 09:21:04 PM AVITAL
+02/01/2019 09:21:04 PM  * Debugger is active!
+02/01/2019 09:21:04 PM  * Debugger PIN: 256-078-520
+02/01/2019 09:21:04 PM  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 09:21:47 Yossi
+02/01/2019 09:21:47 DAVID
+02/01/2019 09:21:47 AVITAL
+02/01/2019 09:21:47  * Restarting with stat
+02/01/2019 09:21:48 Yossi
+02/01/2019 09:21:48 DAVID
+02/01/2019 09:21:48 AVITAL
+02/01/2019 09:21:48  * Debugger is active!
+02/01/2019 09:21:48  * Debugger PIN: 256-078-520
+02/01/2019 09:21:48  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:26:36 Yossi
+02/01/2019 21:26:36 DAVID
+02/01/2019 21:26:36 AVITAL
+02/01/2019 21:26:36  * Restarting with stat
+02/01/2019 21:26:37 Yossi
+02/01/2019 21:26:37 DAVID
+02/01/2019 21:26:37 AVITAL
+02/01/2019 21:26:37  * Debugger is active!
+02/01/2019 21:26:37  * Debugger PIN: 256-078-520
+02/01/2019 21:26:37  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:27:48.2019-01-02 Yossi
+02/01/2019 21:27:48.2019-01-02 DAVID
+02/01/2019 21:27:48.2019-01-02 AVITAL
+02/01/2019 21:27:49.2019-01-02  * Restarting with stat
+02/01/2019 21:27:50.2019-01-02 Yossi
+02/01/2019 21:27:50.2019-01-02 DAVID
+02/01/2019 21:27:50.2019-01-02 AVITAL
+02/01/2019 21:27:50.2019-01-02  * Debugger is active!
+02/01/2019 21:27:50.2019-01-02  * Debugger PIN: 256-078-520
+02/01/2019 21:27:50.2019-01-02  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:28:42.2019-01-02 Yossi
+02/01/2019 21:28:42.2019-01-02 DAVID
+02/01/2019 21:28:42.2019-01-02 AVITAL
+02/01/2019 21:28:43.2019-01-02  * Restarting with stat
+02/01/2019 21:28:43.2019-01-02 Yossi
+02/01/2019 21:28:43.2019-01-02 DAVID
+02/01/2019 21:28:43.2019-01-02 AVITAL
+02/01/2019 21:28:44.2019-01-02  * Debugger is active!
+02/01/2019 21:28:44.2019-01-02  * Debugger PIN: 256-078-520
+02/01/2019 21:28:44.2019-01-02  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:28:49. Yossi
+02/01/2019 21:28:49. DAVID
+02/01/2019 21:28:49. AVITAL
+02/01/2019 21:28:49.  * Restarting with stat
+02/01/2019 21:28:50. Yossi
+02/01/2019 21:28:50. DAVID
+02/01/2019 21:28:50. AVITAL
+02/01/2019 21:28:50.  * Debugger is active!
+02/01/2019 21:28:50.  * Debugger PIN: 256-078-520
+02/01/2019 21:28:50.  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:29:05.s Yossi
+02/01/2019 21:29:05.s DAVID
+02/01/2019 21:29:05.s AVITAL
+02/01/2019 21:29:05.s  * Restarting with stat
+02/01/2019 21:29:06.s Yossi
+02/01/2019 21:29:06.s DAVID
+02/01/2019 21:29:06.s AVITAL
+02/01/2019 21:29:06.s  * Debugger is active!
+02/01/2019 21:29:06.s  * Debugger PIN: 256-078-520
+02/01/2019 21:29:06.s  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:29:28.28 Yossi
+02/01/2019 21:29:28.28 DAVID
+02/01/2019 21:29:28.28 AVITAL
+02/01/2019 21:29:28.28  * Restarting with stat
+02/01/2019 21:29:29.29 Yossi
+02/01/2019 21:29:29.29 DAVID
+02/01/2019 21:29:29.29 AVITAL
+02/01/2019 21:29:29.29  * Debugger is active!
+02/01/2019 21:29:29.29  * Debugger PIN: 256-078-520
+02/01/2019 21:29:29.29  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:31:36 Yossi
+02/01/2019 21:31:36 DAVID
+02/01/2019 21:31:36 AVITAL
+02/01/2019 21:31:36  * Debugger is active!
+02/01/2019 21:31:36  * Debugger PIN: 256-078-520
+02/01/2019 21:31:36  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:31:42 Yossi
+02/01/2019 21:31:42 DAVID
+02/01/2019 21:31:42 AVITAL
+02/01/2019 21:31:43  * Restarting with stat
+02/01/2019 21:31:43 Yossi
+02/01/2019 21:31:43 DAVID
+02/01/2019 21:31:43 AVITAL
+02/01/2019 21:31:44  * Debugger is active!
+02/01/2019 21:31:44  * Debugger PIN: 256-078-520
+02/01/2019 21:31:44  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:32:18 List was requested
+02/01/2019 21:32:18 127.0.0.1 - - [02/Jan/2019 21:32:18] "GET /list HTTP/1.1" 200 -
+02/01/2019 21:32:25 127.0.0.1 - - [02/Jan/2019 21:32:25] "GET /get HTTP/1.1" 200 -
+02/01/2019 21:32:32 Object saved
+02/01/2019 21:32:32 127.0.0.1 - - [02/Jan/2019 21:32:32] "GET /save HTTP/1.1" 200 -
+02/01/2019 21:32:36 127.0.0.1 - - [02/Jan/2019 21:32:36] "GET /get HTTP/1.1" 200 -
+02/01/2019 21:32:41 List was requested
+02/01/2019 21:32:41 127.0.0.1 - - [02/Jan/2019 21:32:41] "GET /list HTTP/1.1" 200 -
+02/01/2019 21:33:31 Object saved
+02/01/2019 21:33:31 127.0.0.1 - - [02/Jan/2019 21:33:31] "GET /save HTTP/1.1" 200 -
+02/01/2019 21:33:57 List was requested
+02/01/2019 21:33:57 127.0.0.1 - - [02/Jan/2019 21:33:57] "GET /list HTTP/1.1" 200 -
+02/01/2019 21:46:41 Yossi
+02/01/2019 21:46:41 DAVID
+02/01/2019 21:46:41 AVITAL
+02/01/2019 21:46:42  * Restarting with stat
+02/01/2019 21:46:42 Yossi
+02/01/2019 21:46:42 DAVID
+02/01/2019 21:46:42 AVITAL
+02/01/2019 21:46:43  * Debugger is active!
+02/01/2019 21:46:43  * Debugger PIN: 256-078-520
+02/01/2019 21:46:43  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:46:56 127.0.0.1 - - [02/Jan/2019 21:46:56] "GET /save HTTP/1.1" 500 -
+02/01/2019 21:47:32 127.0.0.1 - - [02/Jan/2019 21:47:32] "GET /save HTTP/1.1" 500 -
+02/01/2019 21:50:01 Yossi
+02/01/2019 21:50:01 DAVID
+02/01/2019 21:50:01 AVITAL
+02/01/2019 21:50:01  * Restarting with stat
+02/01/2019 21:50:02 Yossi
+02/01/2019 21:50:02 DAVID
+02/01/2019 21:50:02 AVITAL
+02/01/2019 21:50:02  * Debugger is active!
+02/01/2019 21:50:02  * Debugger PIN: 256-078-520
+02/01/2019 21:50:02  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:50:08 127.0.0.1 - - [02/Jan/2019 21:50:08] "GET /save HTTP/1.1" 500 -
+02/01/2019 21:50:44 Yossi
+02/01/2019 21:50:44 DAVID
+02/01/2019 21:50:44 AVITAL
+02/01/2019 21:50:45  * Restarting with stat
+02/01/2019 21:50:45 Yossi
+02/01/2019 21:50:45 DAVID
+02/01/2019 21:50:45 AVITAL
+02/01/2019 21:50:46  * Debugger is active!
+02/01/2019 21:50:46  * Debugger PIN: 256-078-520
+02/01/2019 21:50:46  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:50:50 127.0.0.1 - - [02/Jan/2019 21:50:50] "GET /save HTTP/1.1" 500 -
+02/01/2019 21:50:58  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+02/01/2019 21:50:58  * Restarting with stat
+02/01/2019 21:50:59 Yossi
+02/01/2019 21:50:59 DAVID
+02/01/2019 21:50:59 AVITAL
+02/01/2019 21:50:59  * Debugger is active!
+02/01/2019 21:50:59  * Debugger PIN: 256-078-520
+02/01/2019 21:50:59  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:51:01 Yossi
+02/01/2019 21:51:01 DAVID
+02/01/2019 21:51:01 AVITAL
+02/01/2019 21:51:02  * Restarting with stat
+02/01/2019 21:51:02 Yossi
+02/01/2019 21:51:02 DAVID
+02/01/2019 21:51:02 AVITAL
+02/01/2019 21:51:03  * Debugger is active!
+02/01/2019 21:51:03  * Debugger PIN: 256-078-520
+02/01/2019 21:51:03  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:51:08 127.0.0.1 - - [02/Jan/2019 21:51:08] "GET /save HTTP/1.1" 500 -
+02/01/2019 21:51:38 Yossi
+02/01/2019 21:51:38 DAVID
+02/01/2019 21:51:38 AVITAL
+02/01/2019 21:51:38  * Restarting with stat
+02/01/2019 21:51:39 Yossi
+02/01/2019 21:51:39 DAVID
+02/01/2019 21:51:39 AVITAL
+02/01/2019 21:51:39  * Debugger is active!
+02/01/2019 21:51:39  * Debugger PIN: 256-078-520
+02/01/2019 21:51:39  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:51:44 127.0.0.1 - - [02/Jan/2019 21:51:44] "GET /save HTTP/1.1" 500 -
+02/01/2019 21:53:57 Yossi
+02/01/2019 21:53:57 DAVID
+02/01/2019 21:53:57 AVITAL
+02/01/2019 21:53:58  * Restarting with stat
+02/01/2019 21:53:58 Yossi
+02/01/2019 21:53:58 DAVID
+02/01/2019 21:53:58 AVITAL
+02/01/2019 21:53:59  * Debugger is active!
+02/01/2019 21:53:59  * Debugger PIN: 256-078-520
+02/01/2019 21:53:59  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 21:54:07 127.0.0.1 - - [02/Jan/2019 21:54:07] "GET /save HTTP/1.1" 500 -
+02/01/2019 21:54:26 Yossi
+02/01/2019 21:54:26 DAVID
+02/01/2019 21:54:26 AVITAL
+02/01/2019 21:54:27  * Restarting with stat
+02/01/2019 21:54:27 Yossi
+02/01/2019 21:54:27 DAVID
+02/01/2019 21:54:27 AVITAL
+02/01/2019 21:54:28  * Debugger is active!
+02/01/2019 21:54:28  * Debugger PIN: 256-078-520
+02/01/2019 21:54:28  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:03:22  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+02/01/2019 22:03:22  * Restarting with stat
+02/01/2019 22:03:23 Yossi
+02/01/2019 22:03:23 DAVID
+02/01/2019 22:03:23 AVITAL
+02/01/2019 22:03:24  * Debugger is active!
+02/01/2019 22:03:24  * Debugger PIN: 256-078-520
+02/01/2019 22:03:24  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:03:46  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+02/01/2019 22:03:46  * Restarting with stat
+02/01/2019 22:03:46 Yossi
+02/01/2019 22:03:46 DAVID
+02/01/2019 22:03:46 AVITAL
+02/01/2019 22:03:47  * Debugger is active!
+02/01/2019 22:03:47  * Debugger PIN: 256-078-520
+02/01/2019 22:03:47  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:06:14  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+02/01/2019 22:06:14  * Restarting with stat
+02/01/2019 22:06:14 Yossi
+02/01/2019 22:06:14 DAVID
+02/01/2019 22:06:14 AVITAL
+02/01/2019 22:06:15  * Debugger is active!
+02/01/2019 22:06:15  * Debugger PIN: 256-078-520
+02/01/2019 22:06:15  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:06:49  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+02/01/2019 22:06:50  * Restarting with stat
+02/01/2019 22:06:50 Yossi
+02/01/2019 22:06:50 DAVID
+02/01/2019 22:06:50 AVITAL
+02/01/2019 22:06:51  * Debugger is active!
+02/01/2019 22:06:51  * Debugger PIN: 256-078-520
+02/01/2019 22:06:51  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:06:57 Yossi
+02/01/2019 22:06:57 DAVID
+02/01/2019 22:06:57 AVITAL
+02/01/2019 22:06:58  * Restarting with stat
+02/01/2019 22:06:58 Yossi
+02/01/2019 22:06:58 DAVID
+02/01/2019 22:06:58 AVITAL
+02/01/2019 22:06:58  * Debugger is active!
+02/01/2019 22:06:58  * Debugger PIN: 256-078-520
+02/01/2019 22:06:59  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:08:19  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+02/01/2019 22:08:19  * Restarting with stat
+02/01/2019 22:08:20 Yossi
+02/01/2019 22:08:20 DAVID
+02/01/2019 22:08:20 AVITAL
+02/01/2019 22:08:21  * Debugger is active!
+02/01/2019 22:08:21  * Debugger PIN: 256-078-520
+02/01/2019 22:08:21  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:08:23 127.0.0.1 - - [02/Jan/2019 22:08:23] "GET /save HTTP/1.1" 500 -
+02/01/2019 22:09:00  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+02/01/2019 22:09:00  * Restarting with stat
+02/01/2019 22:21:00 Yossi
+02/01/2019 22:21:00 DAVID
+02/01/2019 22:21:00 AVITAL
+02/01/2019 22:21:00  * Restarting with stat
+02/01/2019 22:21:01 Yossi
+02/01/2019 22:21:01 DAVID
+02/01/2019 22:21:01 AVITAL
+02/01/2019 22:21:01  * Debugger is active!
+02/01/2019 22:21:01  * Debugger PIN: 256-078-520
+02/01/2019 22:21:01  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:25:53  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+02/01/2019 22:25:53  * Restarting with stat
+02/01/2019 22:32:31 Yossi
+02/01/2019 22:32:31 DAVID
+02/01/2019 22:32:31 AVITAL
+02/01/2019 22:32:32  * Restarting with stat
+02/01/2019 22:32:32 Yossi
+02/01/2019 22:32:32 DAVID
+02/01/2019 22:32:32 AVITAL
+02/01/2019 22:32:33  * Debugger is active!
+02/01/2019 22:32:33  * Debugger PIN: 256-078-520
+02/01/2019 22:32:33  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+02/01/2019 22:34:15 127.0.0.1 - - [02/Jan/2019 22:34:15] "GET /save HTTP/1.1" 500 -
+02/01/2019 22:34:44 127.0.0.1 - - [02/Jan/2019 22:34:44] "GET /save HTTP/1.1" 500 -
+02/01/2019 22:37:35 127.0.0.1 - - [02/Jan/2019 22:37:35] "GET /save HTTP/1.1" 500 -
+02/01/2019 22:40:36 127.0.0.1 - - [02/Jan/2019 22:40:36] "GET /save HTTP/1.1" 500 -
+02/01/2019 22:40:52 127.0.0.1 - - [02/Jan/2019 22:40:52] "GET /save HTTP/1.1" 500 -
+03/01/2019 22:43:51  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 22:43:51  * Restarting with stat
+03/01/2019 22:43:55 Yossi
+03/01/2019 22:43:55 DAVID
+03/01/2019 22:43:55 AVITAL
+03/01/2019 22:43:56  * Debugger is active!
+03/01/2019 22:43:57  * Debugger PIN: 256-078-520
+03/01/2019 22:43:57  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 22:44:04 Yossi
+03/01/2019 22:44:04 DAVID
+03/01/2019 22:44:04 AVITAL
+03/01/2019 22:44:04  * Restarting with stat
+03/01/2019 22:44:06 Yossi
+03/01/2019 22:44:06 DAVID
+03/01/2019 22:44:06 AVITAL
+03/01/2019 22:44:06  * Debugger is active!
+03/01/2019 22:44:07  * Debugger PIN: 256-078-520
+03/01/2019 22:44:07  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 22:44:16 127.0.0.1 - - [03/Jan/2019 22:44:16] "GET /save HTTP/1.1" 500 -
+03/01/2019 22:45:00  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 22:45:00  * Restarting with stat
+03/01/2019 22:45:01 Yossi
+03/01/2019 22:45:01 DAVID
+03/01/2019 22:45:01 AVITAL
+03/01/2019 22:45:02  * Debugger is active!
+03/01/2019 22:45:02  * Debugger PIN: 256-078-520
+03/01/2019 22:45:02  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 22:45:45 Yossi
+03/01/2019 22:45:45 DAVID
+03/01/2019 22:45:45 AVITAL
+03/01/2019 22:45:46  * Restarting with stat
+03/01/2019 22:45:47 Yossi
+03/01/2019 22:45:47 DAVID
+03/01/2019 22:45:47 AVITAL
+03/01/2019 22:45:48  * Debugger is active!
+03/01/2019 22:45:48  * Debugger PIN: 256-078-520
+03/01/2019 22:45:48  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 22:45:52 127.0.0.1 - - [03/Jan/2019 22:45:52] "GET /save HTTP/1.1" 500 -
+03/01/2019 22:57:54 127.0.0.1 - - [03/Jan/2019 22:57:54] "GET /save HTTP/1.1" 500 -
+03/01/2019 23:01:49 127.0.0.1 - - [03/Jan/2019 23:01:49] "GET /save HTTP/1.1" 500 -
+03/01/2019 23:04:04 127.0.0.1 - - [03/Jan/2019 23:04:04] "GET / HTTP/1.1" 200 -
+03/01/2019 23:04:51  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:04:51  * Restarting with stat
+03/01/2019 23:04:52 Yossi
+03/01/2019 23:04:52 DAVID
+03/01/2019 23:04:52 AVITAL
+03/01/2019 23:04:53  * Debugger is active!
+03/01/2019 23:04:53  * Debugger PIN: 256-078-520
+03/01/2019 23:04:53  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:04:58 Yossi
+03/01/2019 23:04:58 DAVID
+03/01/2019 23:04:58 AVITAL
+03/01/2019 23:04:59  * Restarting with stat
+03/01/2019 23:04:59 Yossi
+03/01/2019 23:04:59 DAVID
+03/01/2019 23:04:59 AVITAL
+03/01/2019 23:05:00  * Debugger is active!
+03/01/2019 23:05:00  * Debugger PIN: 256-078-520
+03/01/2019 23:05:00  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:05:05 127.0.0.1 - - [03/Jan/2019 23:05:05] "GET /save HTTP/1.1" 500 -
+03/01/2019 23:05:40 Yossi
+03/01/2019 23:05:40 DAVID
+03/01/2019 23:05:40 AVITAL
+03/01/2019 23:05:41  * Restarting with stat
+03/01/2019 23:05:41 Yossi
+03/01/2019 23:05:41 DAVID
+03/01/2019 23:05:41 AVITAL
+03/01/2019 23:05:42  * Debugger is active!
+03/01/2019 23:05:42  * Debugger PIN: 256-078-520
+03/01/2019 23:05:42  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:05:49 127.0.0.1 - - [03/Jan/2019 23:05:49] "GET /save HTTP/1.1" 500 -
+03/01/2019 23:06:05  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:06:05  * Restarting with stat
+03/01/2019 23:06:06 Yossi
+03/01/2019 23:06:06 DAVID
+03/01/2019 23:06:06 AVITAL
+03/01/2019 23:06:06  * Debugger is active!
+03/01/2019 23:06:06  * Debugger PIN: 256-078-520
+03/01/2019 23:06:06  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:07:25 Yossi
+03/01/2019 23:07:25 DAVID
+03/01/2019 23:07:25 AVITAL
+03/01/2019 23:07:26  * Restarting with stat
+03/01/2019 23:07:26 Yossi
+03/01/2019 23:07:26 DAVID
+03/01/2019 23:07:26 AVITAL
+03/01/2019 23:07:27  * Debugger is active!
+03/01/2019 23:07:27  * Debugger PIN: 256-078-520
+03/01/2019 23:07:27  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:07:39 127.0.0.1 - - [03/Jan/2019 23:07:39] "GET /save HTTP/1.1" 500 -
+03/01/2019 23:08:21 Yossi
+03/01/2019 23:08:21 DAVID
+03/01/2019 23:08:21 AVITAL
+03/01/2019 23:08:21  * Restarting with stat
+03/01/2019 23:08:23 Yossi
+03/01/2019 23:08:23 DAVID
+03/01/2019 23:08:23 AVITAL
+03/01/2019 23:08:23  * Debugger is active!
+03/01/2019 23:08:23  * Debugger PIN: 256-078-520
+03/01/2019 23:08:23  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:08:53 127.0.0.1 - - [03/Jan/2019 23:08:53] "POST /save HTTP/1.1" 405 -
+03/01/2019 23:09:15 Yossi
+03/01/2019 23:09:15 DAVID
+03/01/2019 23:09:15 AVITAL
+03/01/2019 23:09:15  * Restarting with stat
+03/01/2019 23:09:17 Yossi
+03/01/2019 23:09:17 DAVID
+03/01/2019 23:09:17 AVITAL
+03/01/2019 23:09:17  * Debugger is active!
+03/01/2019 23:09:17  * Debugger PIN: 256-078-520
+03/01/2019 23:09:17  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:09:22 127.0.0.1 - - [03/Jan/2019 23:09:22] "POST /save HTTP/1.1" 405 -
+03/01/2019 23:10:12  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:10:12  * Restarting with stat
+03/01/2019 23:10:14 Yossi
+03/01/2019 23:10:14 DAVID
+03/01/2019 23:10:14 AVITAL
+03/01/2019 23:13:11 Yossi
+03/01/2019 23:13:11 DAVID
+03/01/2019 23:13:11 AVITAL
+03/01/2019 23:13:11  * Restarting with stat
+03/01/2019 23:13:13 Yossi
+03/01/2019 23:13:13 DAVID
+03/01/2019 23:13:13 AVITAL
+03/01/2019 23:13:13  * Debugger is active!
+03/01/2019 23:13:13  * Debugger PIN: 256-078-520
+03/01/2019 23:13:13  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:17:41 Yossi
+03/01/2019 23:17:41 DAVID
+03/01/2019 23:17:41 AVITAL
+03/01/2019 23:17:41  * Restarting with stat
+03/01/2019 23:17:43 Yossi
+03/01/2019 23:17:43 DAVID
+03/01/2019 23:17:43 AVITAL
+03/01/2019 23:17:43  * Debugger is active!
+03/01/2019 23:17:43  * Debugger PIN: 256-078-520
+03/01/2019 23:17:43  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:17:48 Object saved
+03/01/2019 23:17:49 127.0.0.1 - - [03/Jan/2019 23:17:48] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:17:54 List was requested
+03/01/2019 23:17:54 127.0.0.1 - - [03/Jan/2019 23:17:54] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:18:14 Object saved
+03/01/2019 23:18:14 127.0.0.1 - - [03/Jan/2019 23:18:14] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:18:18 List was requested
+03/01/2019 23:18:18 127.0.0.1 - - [03/Jan/2019 23:18:18] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:19:49  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:19:49  * Restarting with stat
+03/01/2019 23:19:52 Yossi
+03/01/2019 23:19:52 DAVID
+03/01/2019 23:19:52 AVITAL
+03/01/2019 23:19:52  * Debugger is active!
+03/01/2019 23:19:52  * Debugger PIN: 256-078-520
+03/01/2019 23:19:52  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:20:00 Object saved
+03/01/2019 23:20:00 127.0.0.1 - - [03/Jan/2019 23:20:00] "GET /save HTTP/1.1" 200 -
+03/01/2019 23:20:17 Yossi
+03/01/2019 23:20:17 DAVID
+03/01/2019 23:20:17 AVITAL
+03/01/2019 23:20:17  * Restarting with stat
+03/01/2019 23:20:19 Yossi
+03/01/2019 23:20:19 DAVID
+03/01/2019 23:20:19 AVITAL
+03/01/2019 23:20:19  * Debugger is active!
+03/01/2019 23:20:19  * Debugger PIN: 256-078-520
+03/01/2019 23:20:19  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:20:30 Object saved
+03/01/2019 23:20:30 127.0.0.1 - - [03/Jan/2019 23:20:30] "GET /save HTTP/1.1" 200 -
+03/01/2019 23:20:42 List was requested
+03/01/2019 23:20:42 127.0.0.1 - - [03/Jan/2019 23:20:42] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:20:51 List was requested
+03/01/2019 23:20:51 127.0.0.1 - - [03/Jan/2019 23:20:51] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:22:26  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:22:26  * Restarting with stat
+03/01/2019 23:22:29 Yossi
+03/01/2019 23:22:29 DAVID
+03/01/2019 23:22:29 AVITAL
+03/01/2019 23:22:29  * Debugger is active!
+03/01/2019 23:22:29  * Debugger PIN: 256-078-520
+03/01/2019 23:22:29  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:22:59  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:22:59  * Restarting with stat
+03/01/2019 23:23:01 Yossi
+03/01/2019 23:23:01 DAVID
+03/01/2019 23:23:01 AVITAL
+03/01/2019 23:23:01  * Debugger is active!
+03/01/2019 23:23:01  * Debugger PIN: 256-078-520
+03/01/2019 23:23:01  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:24:20 Yossi
+03/01/2019 23:24:20 DAVID
+03/01/2019 23:24:20 AVITAL
+03/01/2019 23:24:20  * Restarting with stat
+03/01/2019 23:24:23 Yossi
+03/01/2019 23:24:23 DAVID
+03/01/2019 23:24:23 AVITAL
+03/01/2019 23:24:23  * Debugger is active!
+03/01/2019 23:24:23  * Debugger PIN: 256-078-520
+03/01/2019 23:24:23  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:24:31 Object saved
+03/01/2019 23:24:31 127.0.0.1 - - [03/Jan/2019 23:24:31] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:25:13  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:25:13  * Restarting with stat
+03/01/2019 23:25:15 Yossi
+03/01/2019 23:25:15 DAVID
+03/01/2019 23:25:15 AVITAL
+03/01/2019 23:25:15  * Debugger is active!
+03/01/2019 23:25:15  * Debugger PIN: 256-078-520
+03/01/2019 23:25:15  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:26:16  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:26:16  * Restarting with stat
+03/01/2019 23:26:19 Yossi
+03/01/2019 23:26:19 DAVID
+03/01/2019 23:26:19 AVITAL
+03/01/2019 23:26:19  * Debugger is active!
+03/01/2019 23:26:19  * Debugger PIN: 256-078-520
+03/01/2019 23:26:19  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:26:21  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:26:21  * Restarting with stat
+03/01/2019 23:26:23 Yossi
+03/01/2019 23:26:23 DAVID
+03/01/2019 23:26:23 AVITAL
+03/01/2019 23:26:23  * Debugger is active!
+03/01/2019 23:26:23  * Debugger PIN: 256-078-520
+03/01/2019 23:26:23  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:26:54  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:26:55  * Restarting with stat
+03/01/2019 23:26:57 Yossi
+03/01/2019 23:26:57 DAVID
+03/01/2019 23:26:57 AVITAL
+03/01/2019 23:26:57  * Debugger is active!
+03/01/2019 23:26:57  * Debugger PIN: 256-078-520
+03/01/2019 23:26:57  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:27:51 Yossi
+03/01/2019 23:27:51 DAVID
+03/01/2019 23:27:51 AVITAL
+03/01/2019 23:27:51  * Restarting with stat
+03/01/2019 23:27:53 Yossi
+03/01/2019 23:27:53 DAVID
+03/01/2019 23:27:53 AVITAL
+03/01/2019 23:27:53  * Debugger is active!
+03/01/2019 23:27:53  * Debugger PIN: 256-078-520
+03/01/2019 23:27:53  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:28:08 127.0.0.1 - - [03/Jan/2019 23:28:08] "POST /save HTTP/1.1" 500 -
+03/01/2019 23:29:49 Yossi
+03/01/2019 23:29:49 DAVID
+03/01/2019 23:29:49 AVITAL
+03/01/2019 23:29:49  * Restarting with stat
+03/01/2019 23:29:51 Yossi
+03/01/2019 23:29:51 DAVID
+03/01/2019 23:29:51 AVITAL
+03/01/2019 23:29:52  * Debugger is active!
+03/01/2019 23:29:52  * Debugger PIN: 256-078-520
+03/01/2019 23:29:52  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:29:54 Object saved [{'sfsdfsdfs': 123123}]
+03/01/2019 23:29:54 127.0.0.1 - - [03/Jan/2019 23:29:54] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:31:56  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:31:56  * Restarting with stat
+03/01/2019 23:31:59 Yossi
+03/01/2019 23:31:59 DAVID
+03/01/2019 23:31:59 AVITAL
+03/01/2019 23:31:59  * Debugger is active!
+03/01/2019 23:31:59  * Debugger PIN: 256-078-520
+03/01/2019 23:31:59  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:32:41  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:32:41  * Restarting with stat
+03/01/2019 23:32:44 Yossi
+03/01/2019 23:32:44 DAVID
+03/01/2019 23:32:44 AVITAL
+03/01/2019 23:32:44  * Debugger is active!
+03/01/2019 23:32:44  * Debugger PIN: 256-078-520
+03/01/2019 23:32:44  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:36:22 Yossi
+03/01/2019 23:36:22 DAVID
+03/01/2019 23:36:22 AVITAL
+03/01/2019 23:36:22  * Restarting with stat
+03/01/2019 23:36:25 Yossi
+03/01/2019 23:36:25 DAVID
+03/01/2019 23:36:25 AVITAL
+03/01/2019 23:36:25  * Debugger is active!
+03/01/2019 23:36:25  * Debugger PIN: 256-078-520
+03/01/2019 23:36:25  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:36:29 [{'sfsdfsdfs': 123123}] has been saved
+03/01/2019 23:36:29 127.0.0.1 - - [03/Jan/2019 23:36:29] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:39:17 Yossi
+03/01/2019 23:39:17 DAVID
+03/01/2019 23:39:17 AVITAL
+03/01/2019 23:39:17  * Restarting with stat
+03/01/2019 23:39:20 Yossi
+03/01/2019 23:39:20 DAVID
+03/01/2019 23:39:20 AVITAL
+03/01/2019 23:39:20  * Debugger is active!
+03/01/2019 23:39:20  * Debugger PIN: 256-078-520
+03/01/2019 23:39:20  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:39:20 [{'sfsdfsdfs': 123123}] has been saved
+03/01/2019 23:39:20 127.0.0.1 - - [03/Jan/2019 23:39:20] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:40:47  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:40:47  * Restarting with stat
+03/01/2019 23:40:49 Yossi
+03/01/2019 23:40:49 DAVID
+03/01/2019 23:40:49 AVITAL
+03/01/2019 23:40:49  * Debugger is active!
+03/01/2019 23:40:49  * Debugger PIN: 256-078-520
+03/01/2019 23:40:49  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:40:55 [{'sfsdfsdfs': 123123}] has been saved
+03/01/2019 23:40:55 127.0.0.1 - - [03/Jan/2019 23:40:55] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:41:32 127.0.0.1 - - [03/Jan/2019 23:41:32] "POST /save HTTP/1.1" 500 -
+03/01/2019 23:42:00 127.0.0.1 - - [03/Jan/2019 23:42:00] "POST /save HTTP/1.1" 500 -
+03/01/2019 23:43:38 127.0.0.1 - - [03/Jan/2019 23:43:38] "POST /save HTTP/1.1" 500 -
+03/01/2019 23:44:12 [{'name': 'yossi'}] has been saved
+03/01/2019 23:44:13 127.0.0.1 - - [03/Jan/2019 23:44:13] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:45:08 List was requested
+03/01/2019 23:45:09 127.0.0.1 - - [03/Jan/2019 23:45:09] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:45:19 [{'name': 'David'}] has been saved
+03/01/2019 23:45:19 127.0.0.1 - - [03/Jan/2019 23:45:19] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:45:30 List was requested
+03/01/2019 23:45:30 127.0.0.1 - - [03/Jan/2019 23:45:30] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:45:46 [{'name2': 'Yossi'}] has been saved
+03/01/2019 23:45:46 127.0.0.1 - - [03/Jan/2019 23:45:46] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:45:48 List was requested
+03/01/2019 23:45:48 127.0.0.1 - - [03/Jan/2019 23:45:48] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:47:12 127.0.0.1 - - [03/Jan/2019 23:47:12] "POST /save HTTP/1.1" 500 -
+03/01/2019 23:48:15 [{'false': 'Yossi'}] has been saved
+03/01/2019 23:48:15 127.0.0.1 - - [03/Jan/2019 23:48:15] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:48:24 [{'false': 2333}] has been saved
+03/01/2019 23:48:24 127.0.0.1 - - [03/Jan/2019 23:48:24] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:48:45 [{'false': False}] has been saved
+03/01/2019 23:48:45 127.0.0.1 - - [03/Jan/2019 23:48:45] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:49:01 List was requested
+03/01/2019 23:49:01 127.0.0.1 - - [03/Jan/2019 23:49:01] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:49:32 127.0.0.1 - - [03/Jan/2019 23:49:32] "POST /save HTTP/1.1" 500 -
+03/01/2019 23:49:38 [{'false': True}] has been saved
+03/01/2019 23:49:38 127.0.0.1 - - [03/Jan/2019 23:49:38] "POST /save HTTP/1.1" 200 -
+03/01/2019 23:49:47 List was requested
+03/01/2019 23:49:47 127.0.0.1 - - [03/Jan/2019 23:49:47] "GET /list HTTP/1.1" 200 -
+03/01/2019 23:54:07  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+03/01/2019 23:54:07  * Restarting with stat
+03/01/2019 23:55:29 Yossi
+03/01/2019 23:55:29 DAVID
+03/01/2019 23:55:29 AVITAL
+03/01/2019 23:55:29  * Restarting with stat
+03/01/2019 23:55:31 Yossi
+03/01/2019 23:55:31 DAVID
+03/01/2019 23:55:31 AVITAL
+03/01/2019 23:55:31  * Debugger is active!
+03/01/2019 23:55:31  * Debugger PIN: 256-078-520
+03/01/2019 23:55:31  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+03/01/2019 23:55:36 127.0.0.1 - - [03/Jan/2019 23:55:36] "POST /save HTTP/1.1" 500 -
+03/01/2019 23:56:15 127.0.0.1 - - [03/Jan/2019 23:56:15] "POST /save HTTP/1.1" 500 -
+03/01/2019 23:56:34 Yossi
+03/01/2019 23:56:34 DAVID
+03/01/2019 23:56:34 AVITAL
+03/01/2019 23:56:34  * Restarting with stat
+03/01/2019 23:56:36 Yossi
+03/01/2019 23:56:36 DAVID
+03/01/2019 23:56:36 AVITAL
+03/01/2019 23:56:36  * Debugger is active!
+03/01/2019 23:56:36  * Debugger PIN: 256-078-520
+03/01/2019 23:56:36  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:04:19  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+04/01/2019 00:04:19  * Restarting with stat
+04/01/2019 00:13:29 Yossi
+04/01/2019 00:13:29 DAVID
+04/01/2019 00:13:29 AVITAL
+04/01/2019 00:13:29  * Restarting with stat
+04/01/2019 00:13:32 Yossi
+04/01/2019 00:13:32 DAVID
+04/01/2019 00:13:32 AVITAL
+04/01/2019 00:13:32  * Debugger is active!
+04/01/2019 00:13:32  * Debugger PIN: 256-078-520
+04/01/2019 00:13:32  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:13:35 127.0.0.1 - - [04/Jan/2019 00:13:35] "POST /save HTTP/1.1" 500 -
+04/01/2019 00:14:29 Yossi
+04/01/2019 00:14:29 DAVID
+04/01/2019 00:14:29 AVITAL
+04/01/2019 00:14:29  * Restarting with stat
+04/01/2019 00:14:34 Yossi
+04/01/2019 00:14:34 DAVID
+04/01/2019 00:14:34 AVITAL
+04/01/2019 00:14:34  * Debugger is active!
+04/01/2019 00:14:34  * Debugger PIN: 256-078-520
+04/01/2019 00:14:34  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:15:32 [True] is not a valid value, expecting type of ID.
+04/01/2019 00:15:32 127.0.0.1 - - [04/Jan/2019 00:15:32] "POST /save HTTP/1.1" 200 -
+04/01/2019 00:16:01 Yossi
+04/01/2019 00:16:01 DAVID
+04/01/2019 00:16:01 AVITAL
+04/01/2019 00:16:01  * Restarting with stat
+04/01/2019 00:16:04 Yossi
+04/01/2019 00:16:04 DAVID
+04/01/2019 00:16:04 AVITAL
+04/01/2019 00:16:04  * Debugger is active!
+04/01/2019 00:16:04  * Debugger PIN: 256-078-520
+04/01/2019 00:16:04  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:16:04 [True] is not a valid value, expecting type of ID.
+04/01/2019 00:16:04 127.0.0.1 - - [04/Jan/2019 00:16:04] "POST /save HTTP/1.1" 500 -
+04/01/2019 00:16:25 [{'false': 'true'}] has been saved
+04/01/2019 00:16:25 127.0.0.1 - - [04/Jan/2019 00:16:25] "POST /save HTTP/1.1" 200 -
+04/01/2019 00:16:50 [True] is not a valid value, expecting type of ID.
+04/01/2019 00:16:50 127.0.0.1 - - [04/Jan/2019 00:16:50] "POST /save HTTP/1.1" 500 -
+04/01/2019 00:19:25  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+04/01/2019 00:19:25  * Restarting with stat
+04/01/2019 00:19:29  * Debugger is active!
+04/01/2019 00:19:29  * Debugger PIN: 256-078-520
+04/01/2019 00:19:29  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:19:53 127.0.0.1 - - [04/Jan/2019 00:19:53] "GET /get HTTP/1.1" 200 -
+04/01/2019 00:21:22 127.0.0.1 - - [04/Jan/2019 00:21:22] "GET /get/ HTTP/1.1" 404 -
+04/01/2019 00:21:37 127.0.0.1 - - [04/Jan/2019 00:21:37] "GET /get/yossi HTTP/1.1" 404 -
+04/01/2019 00:26:42  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+04/01/2019 00:26:42  * Restarting with stat
+04/01/2019 00:26:46  * Debugger is active!
+04/01/2019 00:26:46  * Debugger PIN: 256-078-520
+04/01/2019 00:26:46  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:27:45  * Restarting with stat
+04/01/2019 00:27:49  * Debugger is active!
+04/01/2019 00:27:49  * Debugger PIN: 256-078-520
+04/01/2019 00:27:49  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:27:56 127.0.0.1 - - [04/Jan/2019 00:27:56] "GET /get/yossi HTTP/1.1" 200 -
+04/01/2019 00:28:25 [{'Yossi': 1234}] has been saved
+04/01/2019 00:28:25 127.0.0.1 - - [04/Jan/2019 00:28:25] "POST /save HTTP/1.1" 200 -
+04/01/2019 00:28:38 127.0.0.1 - - [04/Jan/2019 00:28:38] "GET /get/yossi HTTP/1.1" 200 -
+04/01/2019 00:29:05 127.0.0.1 - - [04/Jan/2019 00:29:05] "GET /get/Yossi HTTP/1.1" 200 -
+04/01/2019 00:30:45  * Restarting with stat
+04/01/2019 00:30:49  * Debugger is active!
+04/01/2019 00:30:49  * Debugger PIN: 256-078-520
+04/01/2019 00:30:49  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:33:08 [{'Yosi': 1234}] has been saved
+04/01/2019 00:33:18 127.0.0.1 - - [04/Jan/2019 00:33:18] "POST /save HTTP/1.1" 200 -
+04/01/2019 00:36:57 127.0.0.1 - - [04/Jan/2019 00:36:57] "GET /get/Yossi HTTP/1.1" 200 -
+04/01/2019 00:37:32 127.0.0.1 - - [04/Jan/2019 00:37:32] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 00:46:14  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+04/01/2019 00:46:14  * Restarting with stat
+04/01/2019 00:46:17  * Debugger is active!
+04/01/2019 00:46:17  * Debugger PIN: 256-078-520
+04/01/2019 00:46:17  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:47:45  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+04/01/2019 00:47:45  * Restarting with stat
+04/01/2019 00:47:48  * Debugger is active!
+04/01/2019 00:47:48  * Debugger PIN: 256-078-520
+04/01/2019 00:47:48  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:48:10 could not find an Object with the name [Yopsi]
+04/01/2019 00:48:10 127.0.0.1 - - [04/Jan/2019 00:48:10] "GET /get/Yopsi HTTP/1.1" 200 -
+04/01/2019 00:48:29  * Restarting with stat
+04/01/2019 00:48:32  * Debugger is active!
+04/01/2019 00:48:32  * Debugger PIN: 256-078-520
+04/01/2019 00:48:32  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:49:03 [{'Yosi': 1234}] has been saved
+04/01/2019 00:49:03 127.0.0.1 - - [04/Jan/2019 00:49:03] "POST /save HTTP/1.1" 200 -
+04/01/2019 00:49:10 could not find an Object with the name [Yopsi]
+04/01/2019 00:49:10 127.0.0.1 - - [04/Jan/2019 00:49:10] "GET /get/Yopsi HTTP/1.1" 200 -
+04/01/2019 00:49:21 [{'Yosi': 1234}] has been requested
+04/01/2019 00:49:21 127.0.0.1 - - [04/Jan/2019 00:49:21] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 00:50:55 could not find an Object with the name [Yosi1]
+04/01/2019 00:50:55 127.0.0.1 - - [04/Jan/2019 00:50:55] "GET /get/Yosi1 HTTP/1.1" 200 -
+04/01/2019 00:54:47  * Restarting with stat
+04/01/2019 00:54:52  * Debugger is active!
+04/01/2019 00:54:52  * Debugger PIN: 256-078-520
+04/01/2019 00:54:52  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 00:55:00 could not find an Object with the name [Yosi1]
+04/01/2019 00:55:00 127.0.0.1 - - [04/Jan/2019 00:55:00] "GET /get/Yosi1 HTTP/1.1" 404 -
+04/01/2019 00:55:18 [{'Yosi': 1234}] has been saved
+04/01/2019 00:55:18 127.0.0.1 - - [04/Jan/2019 00:55:18] "POST /save HTTP/1.1" 200 -
+04/01/2019 00:55:26 [{'Yosi': 1234}] has been requested
+04/01/2019 00:55:26 127.0.0.1 - - [04/Jan/2019 00:55:26] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 00:55:37 could not find an Object with the name [Yosi1]
+04/01/2019 00:55:37 127.0.0.1 - - [04/Jan/2019 00:55:37] "GET /get/Yosi1 HTTP/1.1" 404 -
+04/01/2019 01:00:06  * Restarting with stat
+04/01/2019 01:00:10  * Debugger is active!
+04/01/2019 01:00:10  * Debugger PIN: 256-078-520
+04/01/2019 01:00:11  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 01:00:18 List was requested
+04/01/2019 01:00:18 127.0.0.1 - - [04/Jan/2019 01:00:18] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:01:19 List was requested
+04/01/2019 01:01:19 127.0.0.1 - - [04/Jan/2019 01:01:19] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:02:12 List was requested
+04/01/2019 01:02:12 127.0.0.1 - - [04/Jan/2019 01:02:12] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:03:01 [{'Yosi': 1234}] has been saved
+04/01/2019 01:03:01 127.0.0.1 - - [04/Jan/2019 01:03:01] "POST /save HTTP/1.1" 200 -
+04/01/2019 01:03:19 [{'Yosi': 1234}] has been saved
+04/01/2019 01:03:19 127.0.0.1 - - [04/Jan/2019 01:03:19] "POST /save HTTP/1.1" 200 -
+04/01/2019 01:04:27 [{'Yosi': 1234}] has been saved
+04/01/2019 01:04:27 127.0.0.1 - - [04/Jan/2019 01:04:27] "POST /save HTTP/1.1" 200 -
+04/01/2019 01:04:45 [{'Yosi': 1234}] has been saved
+04/01/2019 01:04:45 127.0.0.1 - - [04/Jan/2019 01:04:45] "POST /save HTTP/1.1" 200 -
+04/01/2019 01:04:46 List was requested
+04/01/2019 01:04:46 127.0.0.1 - - [04/Jan/2019 01:04:46] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:05:27 [{'Yosi': 1234}] has been saved
+04/01/2019 01:05:27 127.0.0.1 - - [04/Jan/2019 01:05:27] "POST /save HTTP/1.1" 200 -
+04/01/2019 01:05:28 List was requested
+04/01/2019 01:05:28 127.0.0.1 - - [04/Jan/2019 01:05:28] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:05:29 [{'Yosi': 1234}] has been requested
+04/01/2019 01:05:29 127.0.0.1 - - [04/Jan/2019 01:05:29] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 01:32:48  * Restarting with stat
+04/01/2019 01:32:50  * Debugger is active!
+04/01/2019 01:32:50  * Debugger PIN: 256-078-520
+04/01/2019 01:32:50  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 01:32:55 List was requested
+04/01/2019 01:32:55 127.0.0.1 - - [04/Jan/2019 01:32:55] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:33:14 List was requested
+04/01/2019 01:33:14 127.0.0.1 - - [04/Jan/2019 01:33:14] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:36:16 List was requested
+04/01/2019 01:36:16 127.0.0.1 - - [04/Jan/2019 01:36:16] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:37:08 List was requested
+04/01/2019 01:37:08 127.0.0.1 - - [04/Jan/2019 01:37:08] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:38:54 List was requested
+04/01/2019 01:38:54 127.0.0.1 - - [04/Jan/2019 01:38:54] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:39:10 List was requested
+04/01/2019 01:39:10 127.0.0.1 - - [04/Jan/2019 01:39:10] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:40:10 List was requested
+04/01/2019 01:40:10 127.0.0.1 - - [04/Jan/2019 01:40:10] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:40:30 List was requested
+04/01/2019 01:40:30 127.0.0.1 - - [04/Jan/2019 01:40:30] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:44:12 List was requested
+04/01/2019 01:44:12 127.0.0.1 - - [04/Jan/2019 01:44:12] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:44:34 List was requested
+04/01/2019 01:44:34 127.0.0.1 - - [04/Jan/2019 01:44:34] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:45:46 List was requested
+04/01/2019 01:45:46 127.0.0.1 - - [04/Jan/2019 01:45:46] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:46:02 List was requested
+04/01/2019 01:46:02 127.0.0.1 - - [04/Jan/2019 01:46:02] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:46:12 List was requested
+04/01/2019 01:46:12 127.0.0.1 - - [04/Jan/2019 01:46:12] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:46:19 List was requested
+04/01/2019 01:46:19 127.0.0.1 - - [04/Jan/2019 01:46:19] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:46:46 List was requested
+04/01/2019 01:46:46 127.0.0.1 - - [04/Jan/2019 01:46:46] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:47:04 List was requested
+04/01/2019 01:47:04 127.0.0.1 - - [04/Jan/2019 01:47:04] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:48:19 List was requested
+04/01/2019 01:48:19 127.0.0.1 - - [04/Jan/2019 01:48:19] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:48:20 [{'Yosi': 1234}] has been saved
+04/01/2019 01:48:20 127.0.0.1 - - [04/Jan/2019 01:48:20] "POST /save HTTP/1.1" 200 -
+04/01/2019 01:49:00 List was requested
+04/01/2019 01:49:00 127.0.0.1 - - [04/Jan/2019 01:49:00] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:50:15 List was requested
+04/01/2019 01:50:15 127.0.0.1 - - [04/Jan/2019 01:50:15] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:51:29  * Restarting with stat
+04/01/2019 01:51:30  * Debugger is active!
+04/01/2019 01:51:30  * Debugger PIN: 256-078-520
+04/01/2019 01:51:30  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 01:51:35 List was requested
+04/01/2019 01:51:35 127.0.0.1 - - [04/Jan/2019 01:51:35] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:51:36 [{'Yosi': 1234}] has been saved
+04/01/2019 01:51:36 127.0.0.1 - - [04/Jan/2019 01:51:36] "POST /save HTTP/1.1" 200 -
+04/01/2019 01:51:37 List was requested
+04/01/2019 01:51:37 127.0.0.1 - - [04/Jan/2019 01:51:37] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:53:43 List was requested
+04/01/2019 01:53:43 127.0.0.1 - - [04/Jan/2019 01:53:43] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:53:50  * Restarting with stat
+04/01/2019 01:53:51  * Debugger is active!
+04/01/2019 01:53:51  * Debugger PIN: 256-078-520
+04/01/2019 01:53:51  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 01:53:56 List was requested
+04/01/2019 01:53:56 127.0.0.1 - - [04/Jan/2019 01:53:56] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:53:57 [{'Yosi': 1234}] has been saved
+04/01/2019 01:53:57 127.0.0.1 - - [04/Jan/2019 01:53:57] "POST /save HTTP/1.1" 200 -
+04/01/2019 01:53:58 List was requested
+04/01/2019 01:53:58 127.0.0.1 - - [04/Jan/2019 01:53:58] "GET /list HTTP/1.1" 200 -
+04/01/2019 01:53:59 [{'Yosi': 1234}] has been requested
+04/01/2019 01:53:59 127.0.0.1 - - [04/Jan/2019 01:53:59] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 02:04:44  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+04/01/2019 02:04:44  * Restarting with stat
+04/01/2019 02:04:45  * Debugger is active!
+04/01/2019 02:04:45  * Debugger PIN: 256-078-520
+04/01/2019 02:04:45  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 18:14:26 List was requested
+04/01/2019 18:14:26 127.0.0.1 - - [04/Jan/2019 18:14:26] "GET /list HTTP/1.1" 200 -
+04/01/2019 18:14:27 [{'Yosi': 1234}] has been saved
+04/01/2019 18:14:27 127.0.0.1 - - [04/Jan/2019 18:14:27] "POST /save HTTP/1.1" 200 -
+04/01/2019 18:14:28 List was requested
+04/01/2019 18:14:28 127.0.0.1 - - [04/Jan/2019 18:14:28] "GET /list HTTP/1.1" 200 -
+04/01/2019 18:14:29 [{'Yosi': 1234}] has been requested
+04/01/2019 18:14:29 127.0.0.1 - - [04/Jan/2019 18:14:29] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 18:16:05  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+04/01/2019 18:16:05  * Restarting with stat
+04/01/2019 18:16:06  * Debugger is active!
+04/01/2019 18:16:06  * Debugger PIN: 256-078-520
+04/01/2019 18:16:06  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 18:16:13 List was requested
+04/01/2019 18:16:13 127.0.0.1 - - [04/Jan/2019 18:16:13] "GET /list HTTP/1.1" 200 -
+04/01/2019 18:16:14 [{'Yosi': 1234}] has been saved to the list
+04/01/2019 18:16:14 127.0.0.1 - - [04/Jan/2019 18:16:14] "POST /save HTTP/1.1" 200 -
+04/01/2019 18:16:15 List was requested
+04/01/2019 18:16:15 127.0.0.1 - - [04/Jan/2019 18:16:15] "GET /list HTTP/1.1" 200 -
+04/01/2019 18:16:16 [{'Yosi': 1234}] has been requested
+04/01/2019 18:16:16 127.0.0.1 - - [04/Jan/2019 18:16:16] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 22:40:51 List was requested
+04/01/2019 22:40:51 127.0.0.1 - - [04/Jan/2019 22:40:51] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:40:53 List was requested
+04/01/2019 22:40:53 127.0.0.1 - - [04/Jan/2019 22:40:53] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:42:33 List was requested
+04/01/2019 22:42:33 127.0.0.1 - - [04/Jan/2019 22:42:33] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:42:34 List was requested
+04/01/2019 22:42:34 127.0.0.1 - - [04/Jan/2019 22:42:34] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:42:43 List was requested
+04/01/2019 22:42:43 127.0.0.1 - - [04/Jan/2019 22:42:43] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:42:59  * Restarting with stat
+04/01/2019 22:43:00  * Debugger is active!
+04/01/2019 22:43:00  * Debugger PIN: 256-078-520
+04/01/2019 22:43:00  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 22:43:06 List was requested
+04/01/2019 22:43:06 127.0.0.1 - - [04/Jan/2019 22:43:06] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:43:07 [{'Yosi': 1234}] has been saved to the list
+04/01/2019 22:43:07 127.0.0.1 - - [04/Jan/2019 22:43:07] "POST /save HTTP/1.1" 200 -
+04/01/2019 22:43:08 List was requested
+04/01/2019 22:43:08 127.0.0.1 - - [04/Jan/2019 22:43:08] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:43:09 [{'Yosi': 1234}] has been requested
+04/01/2019 22:43:09 127.0.0.1 - - [04/Jan/2019 22:43:09] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 22:43:25 List was requested
+04/01/2019 22:43:25 127.0.0.1 - - [04/Jan/2019 22:43:25] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:43:27 List was requested
+04/01/2019 22:43:27 127.0.0.1 - - [04/Jan/2019 22:43:27] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:43:49 List was requested
+04/01/2019 22:43:49 127.0.0.1 - - [04/Jan/2019 22:43:49] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:45:10 List was requested
+04/01/2019 22:45:10 127.0.0.1 - - [04/Jan/2019 22:45:10] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:45:34 List was requested
+04/01/2019 22:45:34 127.0.0.1 - - [04/Jan/2019 22:45:34] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:45:48 List was requested
+04/01/2019 22:45:48 127.0.0.1 - - [04/Jan/2019 22:45:48] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:45:58 List was requested
+04/01/2019 22:45:58 127.0.0.1 - - [04/Jan/2019 22:45:58] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:46:29 List was requested
+04/01/2019 22:46:29 127.0.0.1 - - [04/Jan/2019 22:46:29] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:47:01  * Restarting with stat
+04/01/2019 22:47:03  * Debugger is active!
+04/01/2019 22:47:03  * Debugger PIN: 256-078-520
+04/01/2019 22:47:03  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 22:47:14 List was requested
+04/01/2019 22:47:14 127.0.0.1 - - [04/Jan/2019 22:47:14] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:47:15 [{'Yosi': 1234}] has been saved to the list
+04/01/2019 22:47:15 127.0.0.1 - - [04/Jan/2019 22:47:15] "POST /save HTTP/1.1" 200 -
+04/01/2019 22:47:16 List was requested
+04/01/2019 22:47:16 127.0.0.1 - - [04/Jan/2019 22:47:16] "GET /list HTTP/1.1" 200 -
+04/01/2019 22:47:17 [{'Yosi': 1234}] has been requested
+04/01/2019 22:47:17 127.0.0.1 - - [04/Jan/2019 22:47:17] "GET /get/Yosi HTTP/1.1" 200 -
+04/01/2019 22:48:22 127.0.0.1 - - [04/Jan/2019 22:48:22] "GET /list_not_there HTTP/1.1" 404 -
+04/01/2019 22:48:53 127.0.0.1 - - [04/Jan/2019 22:48:53] "GET /list_not_there HTTP/1.1" 404 -
+04/01/2019 22:49:12 127.0.0.1 - - [04/Jan/2019 22:49:12] "GET /list_not_there HTTP/1.1" 404 -
+04/01/2019 22:49:17  * Restarting with stat
+04/01/2019 22:49:19  * Debugger is active!
+04/01/2019 22:49:19  * Debugger PIN: 256-078-520
+04/01/2019 22:49:19  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+04/01/2019 22:49:25 127.0.0.1 - - [04/Jan/2019 22:49:25] "GET /list_not_there HTTP/1.1" 404 -
+04/01/2019 22:51:47 127.0.0.1 - - [04/Jan/2019 22:51:47] "GET /list_not_there HTTP/1.1" 404 -
+04/01/2019 22:53:19  * Restarting with stat
+04/01/2019 22:53:20  * Debugger is active!
+04/01/2019 22:53:20  * Debugger PIN: 256-078-520
+04/01/2019 22:53:20  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+05/01/2019 20:44:32 List was requested
+05/01/2019 20:44:32 127.0.0.1 - - [05/Jan/2019 20:44:32] "GET /list HTTP/1.1" 200 -
+05/01/2019 20:44:33 [{'Yosi': 1234}] has been saved to the list
+05/01/2019 20:44:33 127.0.0.1 - - [05/Jan/2019 20:44:33] "POST /save HTTP/1.1" 200 -
+05/01/2019 20:44:34 List was requested
+05/01/2019 20:44:34 127.0.0.1 - - [05/Jan/2019 20:44:34] "GET /list HTTP/1.1" 200 -
+05/01/2019 20:44:35 [{'Yosi': 1234}] has been requested
+05/01/2019 20:44:35 127.0.0.1 - - [05/Jan/2019 20:44:35] "GET /get/Yosi HTTP/1.1" 200 -
+05/01/2019 20:44:50 List was requested
+05/01/2019 20:44:50 127.0.0.1 - - [05/Jan/2019 20:44:50] "GET /list HTTP/1.1" 200 -
+05/01/2019 20:45:05 List was requested
+05/01/2019 20:45:05 127.0.0.1 - - [05/Jan/2019 20:45:05] "GET /list HTTP/1.1" 200 -
+05/01/2019 20:52:33  * Restarting with stat
+05/01/2019 20:52:35  * Debugger is active!
+05/01/2019 20:52:35  * Debugger PIN: 256-078-520
+05/01/2019 20:52:35  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+05/01/2019 20:52:42 List was requested
+05/01/2019 20:52:42 127.0.0.1 - - [05/Jan/2019 20:52:42] "GET /list HTTP/1.1" 200 -
+05/01/2019 20:52:43 [{'Yosi': 1234}] has been saved to the list
+05/01/2019 20:52:43 127.0.0.1 - - [05/Jan/2019 20:52:43] "POST /save HTTP/1.1" 200 -
+05/01/2019 20:52:45 List was requested
+05/01/2019 20:52:45 127.0.0.1 - - [05/Jan/2019 20:52:45] "GET /list HTTP/1.1" 200 -
+05/01/2019 20:52:46 [{'Yosi': 1234}] has been requested
+05/01/2019 20:52:46 127.0.0.1 - - [05/Jan/2019 20:52:46] "GET /get/Yosi HTTP/1.1" 200 -
+05/01/2019 20:54:25 List was requested
+05/01/2019 20:54:25 127.0.0.1 - - [05/Jan/2019 20:54:25] "GET /list HTTP/1.1" 200 -
+05/01/2019 20:54:58 List was requested
+05/01/2019 20:54:58 127.0.0.1 - - [05/Jan/2019 20:54:58] "GET /list HTTP/1.1" 200 -
+05/01/2019 20:55:34 List was requested
+05/01/2019 20:55:34 127.0.0.1 - - [05/Jan/2019 20:55:34] "GET /list HTTP/1.1" 200 -
+06/01/2019 21:32:57 List was requested
+06/01/2019 21:32:57 127.0.0.1 - - [06/Jan/2019 21:32:57] "GET /list HTTP/1.1" 200 -
+06/01/2019 21:33:08 127.0.0.1 - - [06/Jan/2019 21:33:08] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 21:33:09 127.0.0.1 - - [06/Jan/2019 21:33:09] "POST /save HTTP/1.1" 500 -
+06/01/2019 21:41:46 127.0.0.1 - - [06/Jan/2019 21:41:46] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 21:41:47 [True] is not a valid value, expecting type of ID.
+06/01/2019 21:41:47 127.0.0.1 - - [06/Jan/2019 21:41:47] "POST /save HTTP/1.1" 500 -
+06/01/2019 21:56:44 List was requested
+06/01/2019 21:56:44 127.0.0.1 - - [06/Jan/2019 21:56:44] "GET /list HTTP/1.1" 200 -
+06/01/2019 21:58:07 127.0.0.1 - - [06/Jan/2019 21:58:07] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 21:58:08 [True] is not a valid value, expecting type of ID.
+06/01/2019 21:58:08 127.0.0.1 - - [06/Jan/2019 21:58:08] "POST /save HTTP/1.1" 500 -
+06/01/2019 21:58:09 127.0.0.1 - - [06/Jan/2019 21:58:09] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 21:58:36 127.0.0.1 - - [06/Jan/2019 21:58:36] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 21:58:37 [True] is not a valid value, expecting type of ID.
+06/01/2019 21:58:37 127.0.0.1 - - [06/Jan/2019 21:58:37] "POST /save HTTP/1.1" 500 -
+06/01/2019 21:58:38 127.0.0.1 - - [06/Jan/2019 21:58:38] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 21:59:40 127.0.0.1 - - [06/Jan/2019 21:59:40] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 21:59:41 [True] is not a valid value, expecting type of ID.
+06/01/2019 21:59:41 127.0.0.1 - - [06/Jan/2019 21:59:41] "POST /save HTTP/1.1" 500 -
+06/01/2019 21:59:42 127.0.0.1 - - [06/Jan/2019 21:59:42] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:06:31 127.0.0.1 - - [06/Jan/2019 22:06:31] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:06:32 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:06:32 127.0.0.1 - - [06/Jan/2019 22:06:32] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:08:50 127.0.0.1 - - [06/Jan/2019 22:08:50] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:08:51 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:08:51 127.0.0.1 - - [06/Jan/2019 22:08:51] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:09:50 127.0.0.1 - - [06/Jan/2019 22:09:50] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:09:51 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:09:51 127.0.0.1 - - [06/Jan/2019 22:09:51] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:10:37 127.0.0.1 - - [06/Jan/2019 22:10:37] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:10:38 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:10:38 127.0.0.1 - - [06/Jan/2019 22:10:38] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:11:18 127.0.0.1 - - [06/Jan/2019 22:11:18] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:11:19 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:11:19 127.0.0.1 - - [06/Jan/2019 22:11:19] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:18:38 127.0.0.1 - - [06/Jan/2019 22:18:38] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:18:39 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:18:39 127.0.0.1 - - [06/Jan/2019 22:18:39] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:20:39 127.0.0.1 - - [06/Jan/2019 22:20:39] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:20:40 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:20:40 127.0.0.1 - - [06/Jan/2019 22:20:40] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:22:02 127.0.0.1 - - [06/Jan/2019 22:22:02] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:22:03 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:22:03 127.0.0.1 - - [06/Jan/2019 22:22:03] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:22:59 127.0.0.1 - - [06/Jan/2019 22:22:59] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:23:00 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:23:00 127.0.0.1 - - [06/Jan/2019 22:23:00] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:23:14 127.0.0.1 - - [06/Jan/2019 22:23:14] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:23:15 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:23:15 127.0.0.1 - - [06/Jan/2019 22:23:15] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:25:55 127.0.0.1 - - [06/Jan/2019 22:25:55] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:25:56 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:25:56 127.0.0.1 - - [06/Jan/2019 22:25:56] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:28:00 127.0.0.1 - - [06/Jan/2019 22:28:00] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:28:01 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:28:01 127.0.0.1 - - [06/Jan/2019 22:28:01] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:28:19 127.0.0.1 - - [06/Jan/2019 22:28:19] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:28:20 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:28:20 127.0.0.1 - - [06/Jan/2019 22:28:20] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:28:31 127.0.0.1 - - [06/Jan/2019 22:28:31] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:28:32 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:28:32 127.0.0.1 - - [06/Jan/2019 22:28:32] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:28:55 127.0.0.1 - - [06/Jan/2019 22:28:55] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:28:56 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:28:56 127.0.0.1 - - [06/Jan/2019 22:28:56] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:31:41 127.0.0.1 - - [06/Jan/2019 22:31:41] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:31:42 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:31:42 127.0.0.1 - - [06/Jan/2019 22:31:42] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:32:31 127.0.0.1 - - [06/Jan/2019 22:32:31] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:32:32 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:32:32 127.0.0.1 - - [06/Jan/2019 22:32:32] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:34:27 127.0.0.1 - - [06/Jan/2019 22:34:27] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:34:28 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:34:28 127.0.0.1 - - [06/Jan/2019 22:34:28] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:35:19 127.0.0.1 - - [06/Jan/2019 22:35:19] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:35:20 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:35:20 127.0.0.1 - - [06/Jan/2019 22:35:20] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:35:30 127.0.0.1 - - [06/Jan/2019 22:35:30] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:35:31 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:35:31 127.0.0.1 - - [06/Jan/2019 22:35:31] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:36:37  * Restarting with stat
+06/01/2019 22:36:40  * Debugger is active!
+06/01/2019 22:36:40  * Debugger PIN: 256-078-520
+06/01/2019 22:36:41  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+06/01/2019 22:37:00  * Restarting with stat
+06/01/2019 22:37:03  * Debugger is active!
+06/01/2019 22:37:03  * Debugger PIN: 256-078-520
+06/01/2019 22:37:03  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+06/01/2019 22:37:12  * Restarting with stat
+06/01/2019 22:37:15  * Debugger is active!
+06/01/2019 22:37:15  * Debugger PIN: 256-078-520
+06/01/2019 22:37:15  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+06/01/2019 22:38:52  * Restarting with stat
+06/01/2019 22:38:54  * Debugger is active!
+06/01/2019 22:38:54  * Debugger PIN: 256-078-520
+06/01/2019 22:38:54  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+06/01/2019 22:39:07 127.0.0.1 - - [06/Jan/2019 22:39:07] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:39:08 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:39:08 127.0.0.1 - - [06/Jan/2019 22:39:08] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:39:22 127.0.0.1 - - [06/Jan/2019 22:39:22] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:39:23 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:39:23 127.0.0.1 - - [06/Jan/2019 22:39:23] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:39:35 127.0.0.1 - - [06/Jan/2019 22:39:35] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:39:36 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:39:36 127.0.0.1 - - [06/Jan/2019 22:39:36] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:40:16 127.0.0.1 - - [06/Jan/2019 22:40:16] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:40:17 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:40:17 127.0.0.1 - - [06/Jan/2019 22:40:17] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:40:28 127.0.0.1 - - [06/Jan/2019 22:40:28] "GET /list_not_there HTTP/1.1" 404 -
+06/01/2019 22:40:29 [True] is not a valid value, expecting type of ID.
+06/01/2019 22:40:29 127.0.0.1 - - [06/Jan/2019 22:40:29] "POST /save HTTP/1.1" 500 -
+06/01/2019 22:44:49  * Restarting with stat
+06/01/2019 22:44:51  * Debugger is active!
+06/01/2019 22:44:51  * Debugger PIN: 256-078-520
+06/01/2019 22:44:51  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+06/01/2019 22:58:30  * Restarting with stat
+06/01/2019 22:58:31  * Debugger is active!
+06/01/2019 22:58:31  * Debugger PIN: 256-078-520
+06/01/2019 22:58:31  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+06/01/2019 22:58:41 List was requested
+06/01/2019 22:58:41 127.0.0.1 - - [06/Jan/2019 22:58:41] "GET /list HTTP/1.1" 200 -
+06/01/2019 22:58:42 [{'Yosi': 1234}] has been saved to the list
+06/01/2019 22:58:42 127.0.0.1 - - [06/Jan/2019 22:58:42] "POST /save HTTP/1.1" 200 -
+06/01/2019 22:58:43 List was requested
+06/01/2019 22:58:43 127.0.0.1 - - [06/Jan/2019 22:58:43] "GET /list HTTP/1.1" 200 -
+06/01/2019 22:58:44 [{'Yosi': 1234}] has been requested
+06/01/2019 22:58:44 127.0.0.1 - - [06/Jan/2019 22:58:44] "GET /get/Yosi HTTP/1.1" 200 -
+06/01/2019 23:00:10 List was requested
+06/01/2019 23:00:10 127.0.0.1 - - [06/Jan/2019 23:00:10] "GET /list HTTP/1.1" 200 -
+06/01/2019 23:00:50  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+06/01/2019 23:00:50  * Restarting with stat
+06/01/2019 23:00:51  * Debugger is active!
+06/01/2019 23:00:51  * Debugger PIN: 256-078-520
+06/01/2019 23:00:51  * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+06/01/2019 23:00:51 List was requested
+06/01/2019 23:00:51 127.0.0.1 - - [06/Jan/2019 23:00:51] "GET /list HTTP/1.1" 200 -
+06/01/2019 23:00:52 [{'Yosi': 1234}] has been saved to the list
+06/01/2019 23:00:52 127.0.0.1 - - [06/Jan/2019 23:00:52] "POST /save HTTP/1.1" 200 -
+06/01/2019 23:00:53 List was requested
+06/01/2019 23:00:53 127.0.0.1 - - [06/Jan/2019 23:00:53] "GET /list HTTP/1.1" 200 -
+06/01/2019 23:00:54 [{'Yosi': 1234}] has been requested
+06/01/2019 23:00:54 127.0.0.1 - - [06/Jan/2019 23:00:54] "GET /get/Yosi HTTP/1.1" 200 -
+06/01/2019 23:01:47  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
+06/01/2019 23:01:47  * Restarting with stat
