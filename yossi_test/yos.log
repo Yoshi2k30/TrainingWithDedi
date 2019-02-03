@@ -1506,3 +1506,6 @@ INFO:werkzeug: * Restarting with stat
 06/01/2019 23:00:54 127.0.0.1 - - [06/Jan/2019 23:00:54] "GET /get/Yosi HTTP/1.1" 200 -
 06/01/2019 23:01:47  * Detected change in 'C:\\Users\\twito\\PycharmProjects\\yossi_test\\server.py', reloading
 06/01/2019 23:01:47  * Restarting with stat
+
+
+EDIT FROM GITHUB
